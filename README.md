@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy Rodrigo Poveda Malta</h1>
+<h1 align="center">Hola 👋, soy Rodrigo Josue Poveda Malta</h1>
 <h3 align="center">Estudiante de Ingeniería en Sistemas en Nicaragua · Desarrollador Java y Android</h3>
 
 - 🔭 Estoy trabajando en [Josué](https://github.com/maltarodrigo5051-blip/josue-asistente)
@@ -9,7 +9,7 @@
 
 - 👨‍💻 Todos mis proyectos están en [mis repositorios](https://github.com/maltarodrigo5051-blip?tab=repositories)
 
-- 💬 Pregúntame sobre **Java, Android y apps con IA**
+- 💬 Pregúntame sobre **Java y app android**
 
 - ⚡ Dato curioso: **Mi asistente es mi teléfono del 2017, y es el que me ayuda a organizarme**
 
