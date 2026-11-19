@@ -3,7 +3,7 @@
 
 - 🔭 Estoy trabajando en [Josué](https://github.com/maltarodrigo5051-blip/josue-asistente)
 
-- 🌱 Estoy aprendiendo **Android e IA con Gemini**
+- 🌱 Estoy aprendiendo **crear video juego**
 
 - 👯 Busco colaborar en [notis](https://github.com/maltarodrigo5051-blip/notis)
 
