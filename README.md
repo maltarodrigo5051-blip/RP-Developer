@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy Rodrigo Malta Poveda</h1>
+<h1 align="center">Hola 👋, soy Rodrigo Poveda Malta</h1>
 <h3 align="center">Estudiante de Ingeniería en Sistemas en Nicaragua · Desarrollador Java y Android</h3>
 
 - 🔭 Estoy trabajando en [Josué](https://github.com/maltarodrigo5051-blip/josue-asistente)
