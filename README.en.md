@@ -33,49 +33,49 @@ I'm a **full stack developer** from Chinandega, Nicaragua, and a 3rd-year **Syst
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/maltarodrigo5051-blip/gamerstore"><img src="assets/proyectos/gamerstore.jpg" alt="GamerStore"/></a>
+      <a href="https://github.com/maltarodrigo5051-blip/tiendas-online/tree/main/gamerstore"><img src="assets/proyectos/gamerstore.jpg" alt="GamerStore"/></a>
       <h3>🛒 GamerStore</h3>
       Gaming store with a <b>custom Stripe-style payment gateway</b> (tokens, 3-D Secure), inventory and invoices.<br/>
       <code>Python</code> <code>SQLite</code> <code>JavaScript</code><br/>
-      <a href="https://github.com/maltarodrigo5051-blip/gamerstore">Code →</a>
+      <a href="https://github.com/maltarodrigo5051-blip/tiendas-online/tree/main/gamerstore">Code →</a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://maltarodrigo5051-blip.github.io/filo-reservas/"><img src="assets/proyectos/royal-barber.jpg" alt="Royal Barber"/></a>
+      <a href="https://maltarodrigo5051-blip.github.io/paginas-web/filo-reservas/"><img src="assets/proyectos/royal-barber.jpg" alt="Royal Barber"/></a>
       <h3>💈 Royal Barber</h3>
       Online booking for a barbershop: service, barber and time with no double bookings, plus an admin panel.<br/>
       <code>HTML</code> <code>CSS</code> <code>JavaScript</code><br/>
-      <a href="https://maltarodrigo5051-blip.github.io/filo-reservas/">Live demo →</a>
+      <a href="https://maltarodrigo5051-blip.github.io/paginas-web/filo-reservas/">Live demo →</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/maltarodrigo5051-blip/josue-asistente"><img src="assets/proyectos/josue.jpg" alt="Josué"/></a>
+      <a href="https://github.com/maltarodrigo5051-blip/sistemas/tree/main/josue-asistente"><img src="assets/proyectos/josue.jpg" alt="Josué"/></a>
       <h3>🎙️ Josué</h3>
       Hands-free Android voice assistant that talks with <b>Google Gemini AI</b>, on phone and TV.<br/>
       <code>Java</code> <code>Android</code> <code>Gemini API</code><br/>
-      <a href="https://github.com/maltarodrigo5051-blip/josue-asistente">Code →</a>
+      <a href="https://github.com/maltarodrigo5051-blip/sistemas/tree/main/josue-asistente">Code →</a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://maltarodrigo5051-blip.github.io/nubaro/"><img src="assets/proyectos/backpack.jpg" alt="Backpack Store"/></a>
+      <a href="https://maltarodrigo5051-blip.github.io/paginas-web/nubaro/"><img src="assets/proyectos/backpack.jpg" alt="Backpack Store"/></a>
       <h3>🎒 Backpack Store</h3>
       Sales landing page for a backpack store, with editorial design and scroll animations.<br/>
       <code>HTML</code> <code>CSS</code> <code>JavaScript</code><br/>
-      <a href="https://maltarodrigo5051-blip.github.io/nubaro/">Live demo →</a>
+      <a href="https://maltarodrigo5051-blip.github.io/paginas-web/nubaro/">Live demo →</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://maltarodrigo5051-blip.github.io/padita-motors/"><img src="assets/proyectos/padita.jpg" alt="Padita Motors"/></a>
+      <a href="https://maltarodrigo5051-blip.github.io/paginas-web/padita-motors/"><img src="assets/proyectos/padita.jpg" alt="Padita Motors"/></a>
       <h3>🏍️ Padita Motors</h3>
       Website for a motorcycle repair shop: services, recent work and a booking form.<br/>
       <code>HTML</code> <code>CSS</code> <code>JavaScript</code><br/>
-      <a href="https://maltarodrigo5051-blip.github.io/padita-motors/">Live demo →</a>
+      <a href="https://maltarodrigo5051-blip.github.io/paginas-web/padita-motors/">Live demo →</a>
     </td>
     <td width="50%" valign="top">
       <h3>🧾 Point of sale</h3>
       Desktop checkout system with <b>barcode scanner</b>, inventory and database.<br/>
       <code>Python</code> <code>SQLite</code><br/>
-      <a href="https://github.com/maltarodrigo5051-blip/lector-de-codigo-de-barra">Code →</a>
+      <a href="https://github.com/maltarodrigo5051-blip/sistemas/tree/main/lector-de-codigo-de-barra">Code →</a>
       <br/><br/>
       <a href="https://github.com/maltarodrigo5051-blip?tab=repositories"><b>See all my repositories →</b></a>
     </td>
