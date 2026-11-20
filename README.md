@@ -21,7 +21,7 @@ Soy desarrollador **full stack** de Chinandega, Nicaragua, y estudio **Ingenier�
 - 🎮 Ahora estoy aprendiendo a **crear videojuegos**
 - 💼 **Busco empleo remoto o proyectos freelance**
 
-> 🇺🇸 *Full stack developer from Nicaragua. I build online stores with payments, booking systems and AI-powered apps. Open to remote work.*
+> **EN** · *Full stack developer from Nicaragua. I build online stores with payments, booking systems and AI-powered apps. Open to remote work.*
 
 <img src="assets/divider.svg" width="100%"/>
 
