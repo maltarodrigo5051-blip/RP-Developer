@@ -1,4 +1,9 @@
 <p align="center">
+  <a href="https://github.com/maltarodrigo5051-blip"><img src="https://img.shields.io/badge/%F0%9F%87%AA%F0%9F%87%B8_Espa%C3%B1ol-FFD700?style=for-the-badge&logoColor=000&labelColor=FFD700" alt="Español"/></a>
+  <a href="https://github.com/maltarodrigo5051-blip/maltarodrigo5051-blip/blob/main/README.en.md"><img src="https://img.shields.io/badge/%F0%9F%87%BA%F0%9F%87%B8_English-0d0d0d?style=for-the-badge&logoColor=000&labelColor=0d0d0d" alt="English"/></a>
+</p>
+
+<p align="center">
   <img src="assets/banner.svg" width="100%" alt="Rodrigo Poveda · Desarrollador Full Stack"/>
 </p>
 
@@ -20,8 +25,6 @@ Soy desarrollador **full stack** de Chinandega, Nicaragua, y estudio **Ingenier�
 - 🤖 Trabajo con **Claude Code** y APIs como **Stripe** y **Gemini**
 - 🎮 Ahora estoy aprendiendo a **crear videojuegos**
 - 💼 **Busco empleo remoto o proyectos freelance**
-
-> **EN** · *Full stack developer from Nicaragua. I build online stores with payments, booking systems and AI-powered apps. Open to remote work.*
 
 <img src="assets/divider.svg" width="100%"/>
 
