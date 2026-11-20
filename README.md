@@ -8,7 +8,6 @@
 </p>
 
 <p align="center">
-  <a href="https://maltarodrigo5051-blip.github.io/maltarodrigo5051-blip/"><img src="https://img.shields.io/badge/Portafolio-0d0d0d?style=for-the-badge&logo=googlechrome&logoColor=FFD700" alt="Portafolio"/></a>
   <a href="cv/Rodrigo%20Poveda%20Malta%20-%20CV.pdf"><img src="https://img.shields.io/badge/Mi_CV-FFD700?style=for-the-badge&logo=readthedocs&logoColor=000" alt="Mi CV"/></a>
   <a href="https://www.linkedin.com/in/rodrigo-poveda-dev/"><img src="https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=FFD700" alt="LinkedIn"/></a>
   <a href="mailto:maltarodrigo5051@gmail.com"><img src="https://img.shields.io/badge/Correo-0d0d0d?style=for-the-badge&logo=gmail&logoColor=FFD700" alt="Correo"/></a>
@@ -61,11 +60,11 @@ Soy desarrollador **full stack** de Chinandega, Nicaragua, y estudio **Ingenier�
       <a href="https://github.com/maltarodrigo5051-blip/tiendas-online/tree/main/gamerstore">Código →</a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://maltarodrigo5051-blip.github.io/paginas-web/filo-reservas/"><img src="assets/proyectos/royal-barber.jpg" alt="Royal Barber"/></a>
+      <a href="https://maltarodrigo5051-blip.github.io/paginas-web/royal-barber/"><img src="assets/proyectos/royal-barber.jpg" alt="Royal Barber"/></a>
       <h3>💈 Royal Barber</h3>
       Reservas en línea para barbería: servicio, barbero y hora sin citas dobles, con panel de administración.<br/>
       <code>HTML</code> <code>CSS</code> <code>JavaScript</code><br/>
-      <a href="https://maltarodrigo5051-blip.github.io/paginas-web/filo-reservas/">Demo en vivo →</a>
+      <a href="https://maltarodrigo5051-blip.github.io/paginas-web/royal-barber/">Demo en vivo →</a>
     </td>
   </tr>
   <tr>

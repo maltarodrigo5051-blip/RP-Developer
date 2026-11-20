@@ -8,7 +8,6 @@
 </p>
 
 <p align="center">
-  <a href="https://maltarodrigo5051-blip.github.io/maltarodrigo5051-blip/?lang=en"><img src="https://img.shields.io/badge/Portfolio-0d0d0d?style=for-the-badge&logo=googlechrome&logoColor=FFD700" alt="Portfolio"/></a>
   <a href="cv/Rodrigo%20Poveda%20Malta%20-%20Resume.pdf"><img src="https://img.shields.io/badge/My_Resume-FFD700?style=for-the-badge&logo=readthedocs&logoColor=000" alt="My Resume"/></a>
   <a href="https://www.linkedin.com/in/rodrigo-poveda-dev/"><img src="https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=FFD700" alt="LinkedIn"/></a>
   <a href="mailto:maltarodrigo5051@gmail.com"><img src="https://img.shields.io/badge/Email-0d0d0d?style=for-the-badge&logo=gmail&logoColor=FFD700" alt="Email"/></a>
@@ -42,11 +41,11 @@ I'm a **full stack developer** from Chinandega, Nicaragua, and a 3rd-year **Syst
       <a href="https://github.com/maltarodrigo5051-blip/tiendas-online/tree/main/gamerstore">Code →</a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://maltarodrigo5051-blip.github.io/paginas-web/filo-reservas/"><img src="assets/proyectos/royal-barber.jpg" alt="Royal Barber"/></a>
+      <a href="https://maltarodrigo5051-blip.github.io/paginas-web/royal-barber/"><img src="assets/proyectos/royal-barber.jpg" alt="Royal Barber"/></a>
       <h3>💈 Royal Barber</h3>
       Online booking for a barbershop: service, barber and time with no double bookings, plus an admin panel.<br/>
       <code>HTML</code> <code>CSS</code> <code>JavaScript</code><br/>
-      <a href="https://maltarodrigo5051-blip.github.io/paginas-web/filo-reservas/">Live demo →</a>
+      <a href="https://maltarodrigo5051-blip.github.io/paginas-web/royal-barber/">Live demo →</a>
     </td>
   </tr>
   <tr>
