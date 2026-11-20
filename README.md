@@ -32,6 +32,25 @@ Soy desarrollador **full stack** de Chinandega, Nicaragua, y estudio **Ingenier�
 
 <table>
   <tr>
+    <td width="33%" align="center" valign="top">
+      <h3>🌐 <a href="https://github.com/maltarodrigo5051-blip/paginas-web">Páginas web</a></h3>
+      Sitios para negocios con demo en vivo: barbería, mochilas, taller de motos y consolas.
+    </td>
+    <td width="33%" align="center" valign="top">
+      <h3>⚙️ <a href="https://github.com/maltarodrigo5051-blip/sistemas">Sistemas</a></h3>
+      Contabilidad, punto de venta, avisos de streams y asistente de voz con IA.
+    </td>
+    <td width="33%" align="center" valign="top">
+      <h3>🛒 <a href="https://github.com/maltarodrigo5051-blip/tiendas-online">Tiendas con pagos</a></h3>
+      Tienda en línea con pasarela de pago propia, Stripe, inventario y facturas.
+    </td>
+  </tr>
+</table>
+
+**Destacados:**
+
+<table>
+  <tr>
     <td width="50%" valign="top">
       <a href="https://github.com/maltarodrigo5051-blip/gamerstore"><img src="assets/proyectos/gamerstore.jpg" alt="GamerStore"/></a>
       <h3>🛒 GamerStore</h3>
