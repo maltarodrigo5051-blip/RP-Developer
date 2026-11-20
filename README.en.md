@@ -8,6 +8,8 @@
 </p>
 
 <p align="center">
+  <a href="https://maltarodrigo5051-blip.github.io/maltarodrigo5051-blip/?lang=en"><img src="https://img.shields.io/badge/Portfolio-0d0d0d?style=for-the-badge&logo=googlechrome&logoColor=FFD700" alt="Portfolio"/></a>
+  <a href="cv/Rodrigo%20Poveda%20Malta%20-%20Resume.pdf"><img src="https://img.shields.io/badge/My_Resume-FFD700?style=for-the-badge&logo=readthedocs&logoColor=000" alt="My Resume"/></a>
   <a href="https://www.linkedin.com/in/rodrigo-poveda-dev/"><img src="https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=FFD700" alt="LinkedIn"/></a>
   <a href="mailto:maltarodrigo5051@gmail.com"><img src="https://img.shields.io/badge/Email-0d0d0d?style=for-the-badge&logo=gmail&logoColor=FFD700" alt="Email"/></a>
   <a href="https://www.twitch.tv/rodrigo7oo"><img src="https://img.shields.io/badge/Twitch-0d0d0d?style=for-the-badge&logo=twitch&logoColor=FFD700" alt="Twitch"/></a>
