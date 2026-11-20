@@ -15,7 +15,7 @@
 
 <h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/rodrigo-poveda-591278432/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-Rodrigo_Poveda-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Rodrigo Poveda" /></a>
+<a href="https://www.linkedin.com/in/rodrigo-poveda-dev/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-Rodrigo_Poveda-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Rodrigo Poveda" /></a>
 <a href="https://www.twitch.tv/rodrigo7oo" target="blank"><img src="https://img.shields.io/badge/Twitch-rodrigo7oo-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch rodrigo7oo" /></a>
 <img src="https://img.shields.io/badge/Discord-rodrigo__7000-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord rodrigo_7000" />
 <a href="https://www.instagram.com/solounuser67" target="blank"><img src="https://img.shields.io/badge/Instagram-solounuser67-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram solounuser67" /></a>
