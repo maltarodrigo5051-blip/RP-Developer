@@ -96,7 +96,7 @@ I'm a **full stack developer** from Nicaragua and a 3rd-year **Systems Engineeri
 <img src="assets/stats.svg" height="44"/>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=maltarodrigo5051-blip&show_icons=true&locale=en&hide_border=false&bg_color=0d0d0d&title_color=FFD700&icon_color=FFD700&text_color=E6E6E6&border_color=B8860B&rank_icon=github&hide=prs,issues,contribs&include_all_commits=true" alt="Stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=maltarodrigo5051-blip&show_icons=true&locale=en&hide_border=false&bg_color=0d0d0d&title_color=FFD700&icon_color=FFD700&text_color=E6E6E6&border_color=B8860B&rank_icon=github&hide=stars,prs,issues,contribs&include_all_commits=true" alt="Stats"/>
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=maltarodrigo5051-blip&layout=compact&locale=en&bg_color=0d0d0d&title_color=FFD700&text_color=E6E6E6&border_color=B8860B" alt="Languages"/>
 </p>
 <p align="center">
