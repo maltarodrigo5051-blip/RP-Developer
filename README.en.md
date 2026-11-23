@@ -20,12 +20,12 @@
 
 <img src="assets/about.svg" height="44"/>
 
-I'm a **full stack developer** from Chinandega, Nicaragua, and a 3rd-year **Systems Engineering** student (UACH). Since 2023 I've built and sold websites for local businesses, handling each project end to end: understanding the client, designing, coding and delivering on time.
+I'm a **full stack developer** from Nicaragua and a 3rd-year **Systems Engineering** student (UACH). Since 2023 I've built and sold websites for local businesses, handling each project end to end: understanding the client, designing, coding and delivering on time.
 
 - ⚡ I build **online stores with payments**, **booking systems** and **AI-powered apps**
 - 🤖 I work with **Claude Code** and APIs like **Stripe** and **Gemini**
 - 🎮 Currently learning **game development**
-- 💼 **Open to remote jobs and freelance projects**
+- 💼 **Open to working on new projects**
 
 <img src="assets/divider.svg" width="100%"/>
 
@@ -96,7 +96,7 @@ I'm a **full stack developer** from Chinandega, Nicaragua, and a 3rd-year **Syst
 <img src="assets/stats.svg" height="44"/>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=maltarodrigo5051-blip&show_icons=true&locale=en&hide_border=false&bg_color=0d0d0d&title_color=FFD700&icon_color=FFD700&text_color=E6E6E6&border_color=B8860B&rank_icon=github" alt="Stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=maltarodrigo5051-blip&show_icons=true&locale=en&hide_border=false&bg_color=0d0d0d&title_color=FFD700&icon_color=FFD700&text_color=E6E6E6&border_color=B8860B&rank_icon=github&hide=prs,issues,contribs&include_all_commits=true" alt="Stats"/>
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=maltarodrigo5051-blip&layout=compact&locale=en&bg_color=0d0d0d&title_color=FFD700&text_color=E6E6E6&border_color=B8860B" alt="Languages"/>
 </p>
 <p align="center">
@@ -106,5 +106,5 @@ I'm a **full stack developer** from Chinandega, Nicaragua, and a 3rd-year **Syst
 <img src="assets/divider.svg" width="100%"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=FFD700&center=true&vCenter=true&width=600&lines=Got+a+project%3F+Let%27s+talk+%E2%9A%A1;Available+for+remote+work;Thanks+for+visiting+my+profile" alt="Let's talk"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=FFD700&center=true&vCenter=true&width=600&lines=Got+a+project%3F+Let%27s+talk+%E2%9A%A1;Open+to+new+projects;Thanks+for+visiting+my+profile" alt="Let's talk"/>
 </p>

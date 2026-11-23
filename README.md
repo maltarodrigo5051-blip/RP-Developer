@@ -20,12 +20,12 @@
 
 <img src="assets/sobre-mi.svg" height="44"/>
 
-Soy desarrollador **full stack** de Chinandega, Nicaragua, y estudio **Ingeniería en Sistemas** (3.er año, UACH). Desde 2023 hago y vendo sitios web para negocios locales, y llevo cada proyecto de principio a fin: entender al cliente, diseñar, programar y entregar a tiempo.
+Soy desarrollador **full stack** de Nicaragua y estudio **Ingeniería en Sistemas** (3.er año, UACH). Desde 2023 hago y vendo sitios web para negocios locales, y llevo cada proyecto de principio a fin: entender al cliente, diseñar, programar y entregar a tiempo.
 
 - ⚡ Construyo **tiendas en línea con pagos**, **sistemas de reservas** y **apps con IA**
 - 🤖 Trabajo con **Claude Code** y APIs como **Stripe** y **Gemini**
 - 🎮 Ahora estoy aprendiendo a **crear videojuegos**
-- 💼 **Busco empleo remoto o proyectos freelance**
+- 💼 **Estoy abierto a trabajar en nuevos proyectos**
 
 <img src="assets/divider.svg" width="100%"/>
 
@@ -115,7 +115,7 @@ Soy desarrollador **full stack** de Chinandega, Nicaragua, y estudio **Ingenier�
 <img src="assets/estadisticas.svg" height="44"/>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=maltarodrigo5051-blip&show_icons=true&locale=es&hide_border=false&bg_color=0d0d0d&title_color=FFD700&icon_color=FFD700&text_color=E6E6E6&border_color=B8860B&rank_icon=github" alt="Estadísticas"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=maltarodrigo5051-blip&show_icons=true&locale=es&hide_border=false&bg_color=0d0d0d&title_color=FFD700&icon_color=FFD700&text_color=E6E6E6&border_color=B8860B&rank_icon=github&hide=prs,issues,contribs&include_all_commits=true" alt="Estadísticas"/>
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=maltarodrigo5051-blip&layout=compact&locale=es&bg_color=0d0d0d&title_color=FFD700&text_color=E6E6E6&border_color=B8860B" alt="Lenguajes"/>
 </p>
 <p align="center">
@@ -125,5 +125,5 @@ Soy desarrollador **full stack** de Chinandega, Nicaragua, y estudio **Ingenier�
 <img src="assets/divider.svg" width="100%"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=FFD700&center=true&vCenter=true&width=600&lines=%C2%BFTienes+un+proyecto%3F+Hablemos+%E2%9A%A1;Disponible+para+trabajo+remoto;Gracias+por+visitar+mi+perfil" alt="Hablemos"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=FFD700&center=true&vCenter=true&width=600&lines=%C2%BFTienes+un+proyecto%3F+Hablemos+%E2%9A%A1;Abierto+a+nuevos+proyectos;Gracias+por+visitar+mi+perfil" alt="Hablemos"/>
 </p>
