@@ -73,6 +73,7 @@ I'm a **full stack developer** from Nicaragua and a 3rd-year **Systems Engineeri
       <a href="https://maltarodrigo5051-blip.github.io/paginas-web/padita-motors/">Live demo →</a>
     </td>
     <td width="50%" valign="top">
+      <a href="https://github.com/maltarodrigo5051-blip/sistemas/tree/main/lector-de-codigo-de-barra"><img src="assets/proyectos/punto-de-venta.jpg" alt="Point of sale"/></a>
       <h3>🧾 Point of sale</h3>
       Desktop checkout system with <b>barcode scanner</b>, inventory and database.<br/>
       <code>Python</code> <code>SQLite</code><br/>

@@ -92,6 +92,7 @@ Soy desarrollador **full stack** de Nicaragua y estudio **Ingeniería en Sistema
       <a href="https://maltarodrigo5051-blip.github.io/paginas-web/padita-motors/">Demo en vivo →</a>
     </td>
     <td width="50%" valign="top">
+      <a href="https://github.com/maltarodrigo5051-blip/sistemas/tree/main/lector-de-codigo-de-barra"><img src="assets/proyectos/punto-de-venta.jpg" alt="Punto de venta"/></a>
       <h3>🧾 Punto de venta</h3>
       Sistema de caja de escritorio con <b>lector de código de barras</b>, inventario y base de datos.<br/>
       <code>Python</code> <code>SQLite</code><br/>
